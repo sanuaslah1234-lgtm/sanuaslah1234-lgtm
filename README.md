@@ -10,8 +10,8 @@ I'm passionate about building beautiful and functional mobile applications using
 
 - 🎓 App Development Student at **GCE PMNA**
 - 📍 From Melattur, Kerala, India
-- 🌱 Currently learning **Flutter, REST APIs, Firebase, and State Management**
-- 💬 Ask me about **Flutter, Dart, Provider, Hive, and API Integration**
+- 🌱 Currently learning **Flutter, REST APIs,  and State Management**
+- 💬 Ask me about **Flutter, Dart, Provider, and API Integration**
 - ⚡ Interested in Mobile App Development and Full Stack Development
 
 ---
